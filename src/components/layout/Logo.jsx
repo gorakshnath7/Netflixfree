@@ -7,7 +7,7 @@ import styles from "./Logo.module.css";
 function Logo() {
    return (
       <Link to="/" className={styles.logo}>
-         <span>Netflix </span>
+         <span>NETFLIX</span>
       </Link>
    );
 }
